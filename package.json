@@ -28,5 +28,31 @@
     "mocha": "^1.21.3",
     "request": "^2.39.0",
     "should": "^4.0.4"
-  }
+  },
+  "gitHead": "cd374bec91ea521a056f79a41aea08c057c3beec",
+  "description": "SEO Solution for MEAN.JS applications which forwards crawlers requests to a compiled HTML copy using PhantomJS.",
+  "_id": "mean-seo@0.0.8",
+  "_shasum": "d3a8b0fafc802743dc2e5484ebb2843c0728b8e4",
+  "_from": "mean-seo@0.0.8",
+  "_npmVersion": "1.4.23",
+  "_npmUser": {
+    "name": "roieki",
+    "email": "roie.cohen@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "roieki",
+      "email": "roie.cohen@gmail.com"
+    },
+    {
+      "name": "amoshaviv",
+      "email": "mail@amoshaviv.com"
+    }
+  ],
+  "dist": {
+    "shasum": "d3a8b0fafc802743dc2e5484ebb2843c0728b8e4",
+    "tarball": "http://registry.npmjs.org/mean-seo/-/mean-seo-0.0.8.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/mean-seo/-/mean-seo-0.0.8.tgz"
 }
